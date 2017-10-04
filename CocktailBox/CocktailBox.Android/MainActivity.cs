@@ -27,6 +27,7 @@ namespace CocktailBox.Droid
 			}
             int test2 = 90;
             test2++;
+            string test3 = "git rabotaet";
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
