@@ -8,6 +8,7 @@ namespace CocktailBox
 	{
 		public Test ()
 		{
+            string s="тест рабо";
 		}
 	}
 }
