@@ -20,14 +20,8 @@ namespace CocktailBox.Droid
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
-			int test = 4;
-			for(int i =0;i<40;i++)
-			{
-				test++;
-			}
-            int test2 = 90;
-            test2++;
-            string test3 = "git rabotaet";
+			
+            
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
